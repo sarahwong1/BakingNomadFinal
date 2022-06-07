@@ -192,7 +192,8 @@
       }
       
       .carousel-caption a h5{
-        font-size: 2.5cm;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 1.5vw;
         color: white;
       }
       
@@ -236,6 +237,7 @@
       }
       /* contact us css starts here */
       .contact-section{
+        font-family: 'Courier New', Courier, monospace;
         background: url(https://img.freepik.com/free-photo/copy-space-ingredients-cookies_23-2148837161.jpg?w=2000) no-repeat;
         background-position: center;
         background-color: #E9E9E9;
@@ -415,6 +417,7 @@
      /* reviews css starts here */
 
      .rev-section{
+       font-family: 'Courier New', Courier, monospace;
         margin: auto;
         padding: 0 1rem;
         max-width: 1100px;
@@ -423,6 +426,7 @@
      }
     
     .note{
+      font-family: 'Courier New', Courier, monospace;
         font-size: 1.1rem;
         color: rgb(150, 150, 150);
         font-style: italic;

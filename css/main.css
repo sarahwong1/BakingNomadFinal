@@ -188,6 +188,7 @@
         margin: auto;
         width: 100%;
         max-width: 69ch;
+      font-family: 'Courier New', Courier, monospace;
       }
       
       .carousel-caption a h5{
